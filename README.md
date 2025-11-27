@@ -65,7 +65,7 @@ locally with SQLite.
 1.  Clone the repo:
 
     ``` bash
-    git clone https://github.com/<your-username>/football-results-app.git
+    git clone https://github.com/yuval2306/football-results-app.git
     ```
 
 2.  Open in Android Studio\
