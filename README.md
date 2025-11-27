@@ -1,4 +1,4 @@
-# ⚽ Football Results App
+hi# ⚽ Football Results App
 
 A clean and simple Android app for managing football match results,
 viewing team statistics, and browsing match reports --- all stored
@@ -65,7 +65,7 @@ locally with SQLite.
 1.  Clone the repo:
 
     ``` bash
-    git clone https://github.com/yuval2306/football-results-app.git
+    git clone https://github.com/Yuval2306/football-results-app.git
     ```
 
 2.  Open in Android Studio\
