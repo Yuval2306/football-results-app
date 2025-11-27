@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">תוצאות משחקי כדורגל</string>
+    <string name="app_title">מערכת ניהול תוצאות משחקי כדורגל</string>
+    <string name="add_match">הוסף משחק חדש</string>
+    <string name="view_matches">צפה במשחקים</string>
+    <string name="team_statistics">טבלת סטטיסטיקה</string>
+    <string name="search_matches">חפש משחקים</string>
+
+    <!-- Match Entry -->
+    <string name="match_entry_title">הוספת/עריכת משחק</string>
+    <string name="match_date">תאריך המשחק</string>
+    <string name="date_format">DD/MM/YYYY</string>
+    <string name="match_city">עיר</string>
+    <string name="city_hint">שם העיר</string>
+    <string name="team_a">קבוצה א\'</string>
+    <string name="team_a_hint">שם קבוצה א\'</string>
+    <string name="team_a_goals">שערים קבוצה א\'</string>
+    <string name="team_b">קבוצה ב\'</string>
+    <string name="team_b_hint">שם קבוצה ב\'</string>
+    <string name="team_b_goals">שערים קבוצה ב\'</string>
+    <string name="goals_hint">מספר שערים</string>
+    <string name="save">שמור</string>
+    <string name="cancel">בטל</string>
+    <string name="delete">מחק</string>
+
+    <!-- Match Item -->
+    <string name="city_separator">|</string>
+
+    <!-- Team Stats -->
+    <string name="team_name">קבוצה</string>
+    <string name="matches_played">משחקים</string>
+    <string name="wins">ניצחונות</string>
+    <string name="draws">תיקו</string>
+    <string name="losses">הפסדים</string>
+    <string name="goals_scored">שערים</string>
+    <string name="points">נק\'</string>
+
+
+    <!-- Search Activity -->
+    <string name="select_team">בחר קבוצה</string>
+    <string name="select_team_prompt">בחר קבוצה לחיפוש משחקים:</string>
+    <string name="no_matches_found">לא נמצאו משחקים לקבוצה זו</string>
+
+    <!-- Report Activity -->
+    <string name="matches_report">דוח משחקים</string>
+    <string name="no_data_found">אין נתונים להצגה</string>
+    <string name="no_team_stats_found">אין נתוני קבוצות להצגה</string>
+    <string name="print_report">הדפס דוח</string>
+
+    <!-- Team Stats Activity -->
+    <string name="recalculate_stats">חשב מחדש סטטיסטיקות</string>
+    <string name="stats_recalculated">הסטטיסטיקות חושבו מחדש בהצלחה</string>
+
+    <!-- Match Entry Activity -->
+    <string name="error_date_required">נא להזין תאריך</string>
+    <string name="error_city_required">נא להזין עיר</string>
+    <string name="error_team_a_required">נא להזין שם קבוצה א\'</string>
+    <string name="error_team_b_required">נא להזין שם קבוצה ב\'</string>
+    <string name="error_team_a_goals_required">נא להזין מספר שערים לקבוצה א\'</string>
+    <string name="error_team_b_goals_required">נא להזין מספר שערים לקבוצה ב\'</string>
+    <string name="error_same_teams">לא ניתן להזין אותה קבוצה פעמיים</string>
+    <string name="match_added">המשחק נוסף בהצלחה</string>
+    <string name="match_updated">המשחק עודכן בהצלחה</string>
+    <string name="match_deleted">המשחק נמחק בהצלחה</string>
+    <string name="error_add_match">שגיאה בהוספת המשחק</string>
+    <string name="error_update_match">שגיאה בעדכון המשחק</string>
+    <string name="error_delete_match">שגיאה במחיקת המשחק</string>
+    <string name="error_invalid_date">תאריך לא תקין</string>
+</resources>
